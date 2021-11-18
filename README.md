@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caitlin 🤓
 - 👀 I’m interested in learning how to code. Hiking. Paddleboarding. My dog. Hanging out with my daughter. ❤️
-- 🌱 I’m currently learning Front End Development and I need all the help. 
+- 🌱 I’m currently learning Front End Development and I need all the help I can get. 
 
 
 <!---
